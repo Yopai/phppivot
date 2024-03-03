@@ -1,5 +1,6 @@
 <?php
 
+namespace Mhadjimichael\Phppivot;
 //PHPivot
 /*Supported Features:
     -Can Import "Prepared" 2D Array/Table

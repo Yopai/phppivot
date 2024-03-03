@@ -1,0 +1,17 @@
+{
+    "name": "mhadjimichael/phppivot",
+    "description": "A flexible Pivot Table library for PHP.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mhadjimichael\\Phppivot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marios Hadjimichael",
+            "email": "marioshadj@gmail.com"
+        }
+    ],
+    "require": {}
+}

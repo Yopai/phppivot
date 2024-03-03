@@ -1,2 +1,4 @@
 # Ignore bash scripts
 *.sh
+
+/vendor/
